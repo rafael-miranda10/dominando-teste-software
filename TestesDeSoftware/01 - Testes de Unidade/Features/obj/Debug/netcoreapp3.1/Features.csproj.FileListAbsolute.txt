@@ -1,0 +1,9 @@
+C:\dominando-teste-software\TestesDeSoftware\01 - Testes de Unidade\Features\bin\Debug\netcoreapp3.1\Features.deps.json
+C:\dominando-teste-software\TestesDeSoftware\01 - Testes de Unidade\Features\bin\Debug\netcoreapp3.1\Features.dll
+C:\dominando-teste-software\TestesDeSoftware\01 - Testes de Unidade\Features\obj\Debug\netcoreapp3.1\Features.csprojAssemblyReference.cache
+C:\dominando-teste-software\TestesDeSoftware\01 - Testes de Unidade\Features\obj\Debug\netcoreapp3.1\Features.AssemblyInfoInputs.cache
+C:\dominando-teste-software\TestesDeSoftware\01 - Testes de Unidade\Features\obj\Debug\netcoreapp3.1\Features.AssemblyInfo.cs
+C:\dominando-teste-software\TestesDeSoftware\01 - Testes de Unidade\Features\bin\Debug\netcoreapp3.1\Features.pdb
+C:\dominando-teste-software\TestesDeSoftware\01 - Testes de Unidade\Features\obj\Debug\netcoreapp3.1\Features.csproj.CoreCompileInputs.cache
+C:\dominando-teste-software\TestesDeSoftware\01 - Testes de Unidade\Features\obj\Debug\netcoreapp3.1\Features.dll
+C:\dominando-teste-software\TestesDeSoftware\01 - Testes de Unidade\Features\obj\Debug\netcoreapp3.1\Features.pdb
