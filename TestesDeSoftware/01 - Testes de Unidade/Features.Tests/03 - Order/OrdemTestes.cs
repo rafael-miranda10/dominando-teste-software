@@ -2,7 +2,8 @@
 
 namespace Features.Tests._03___Order
 {
-    [TestCaseOrderer("Features.Tests.PriorityOrderer", "Features.Tests")]
+    //Sempre colocar o namespace da classe de prioridade
+    [TestCaseOrderer("Features.Tests._03___Order.PriorityOrderer", "Features.Tests")]
     public class OrdemTestes
     {
         public static bool Teste1Chamado;

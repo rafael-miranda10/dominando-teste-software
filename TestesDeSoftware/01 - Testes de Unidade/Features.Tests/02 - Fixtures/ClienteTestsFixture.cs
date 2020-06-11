@@ -1,7 +1,6 @@
-﻿using Features.Clientes;
+﻿
+using Features.Clientes;
 using System;
-using System.Collections.Generic;
-using System.Text;
 using Xunit;
 
 namespace Features.Tests._02___Fixtures
